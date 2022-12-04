@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['万物之始', '大道至简', '衍化至繁'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['万物之始,', '万物之始,大道至简,', '万物之始,大道至简,衍化至繁', '欢迎来到我的博客🎉', 'i n g'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
 
