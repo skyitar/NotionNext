@@ -17,4 +17,4 @@
   </a>
 </p>
 
-博客地址：[https://b.ing.gs/](Galaxy Star)
+博客地址：[https://b.ing.gs/](https://b.ing.gs/)
